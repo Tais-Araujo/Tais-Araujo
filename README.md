@@ -24,7 +24,7 @@ Eu prefiro desafios fáceis… mas às vezes me meto nos difíceis mesmo assim �
 ---
 
 ## 📫 Me encontre aqui:
-- [E-mail] (malito:tais37776@gmail.com)  
+- ✉️ Email: [email@email.com](mailto:tais37776@gmail.com)
 
 ---
 
