@@ -1,16 +1,31 @@
-## Hi there 👋
+# Oi, pessoal! 👋 Eu sou Taís Araújo.
 
-<!--
-**Tais-Araujo/Tais-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de *Tecnologia da Informação* no IFAM  
+☕ Sobrevivendo a aulas, trabalhos e muito café  
+🎲 Curiosa por natureza, aprendendo coisas novas e testando limites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente aprendendo:
+- HTML, CSS & JavaScript  
+- Lógica de Programação  
+- Fundamentos de Redes  
+
+---
+
+## 🎯 Objetivo:
+Aproveitar cada aprendizado, mesmo que às vezes seja só por curiosidade  
+
+---
+
+## 💡 Fun fact:
+Eu prefiro desafios fáceis… mas às vezes me meto nos difíceis mesmo assim 😅  
+
+---
+
+## 📫 Me encontre aqui:
+- ✉️ Email: (malito:tais37776@gmail.com)  
+
+---
+
+✨ Meus projetos são uma mistura de tentativa, erro e diversão — e sempre com café por perto!
